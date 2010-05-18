@@ -9,7 +9,7 @@ info:
 	@echo $(shell for file in $(ALL_SVG); do echo $$file;done)
 
 %.png: %.svg
-	inkscape --file=$< --export-area-page --without-gui --export-png=$@
+	inkscape --file=$< --export-area-drawing --without-gui --export-png=$@
 
 clean:
 	@echo 'Makefile: doing $@'
