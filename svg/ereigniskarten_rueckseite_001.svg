@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ereigniskarten_rueckseite.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2826"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2826-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2876"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2876-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2917"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2917-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2917-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3098"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3922"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3922-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4049"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4116"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4162"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4162-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4233"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4306"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4306-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4306-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5763452"
+     inkscape:cx="278.04272"
+     inkscape:cy="849.18108"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1465"
+     inkscape:window-height="943"
+     inkscape:window-x="87"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2.172441e-5)">
+    <g
+       transform="translate(235.7791,-18.503258)"
+       id="g2849-0">
+      <path
+         id="path2816-0"
+         d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2816-3-3"
+         d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(236.61423,-255.88311)"
+       id="g2849-0-6">
+      <path
+         id="path2816-0-1"
+         d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2816-3-3-4"
+         d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(235.77911,-493.26295)"
+       id="g2849-0-1">
+      <path
+         id="path2816-0-2"
+         d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2816-3-3-0"
+         d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="230.43304"
+       y="58.555569"
+       id="text3005"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="230.43304"
+         y="58.555569">Ereigniskarten</tspan></text>
+    <g
+       transform="translate(235.77911,-730.64279)"
+       id="g2849-0-1-9">
+      <path
+         id="path2816-0-2-3"
+         d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path2816-3-3-0-3"
+         d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+         style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3904"
+       transform="translate(-2.822916,0.53213449)">
+      <g
+         id="g2849-2-0"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-1"
+       transform="translate(233.38185,3.6582578e-6)">
+      <g
+         id="g2849-2-0-8"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-5" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-2" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-9"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-0"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-7"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-6"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-0"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-9"
+       transform="translate(469.58662,3.6582578e-6)">
+      <g
+         id="g2849-2-0-6"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-6" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-4" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-1"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-5"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-0"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-7"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-6"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-5"
+       transform="translate(-3.4128955,237.17738)">
+      <g
+         id="g2849-2-0-2"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-4" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-3" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-5"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-7"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-5"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-62"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-7"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-1-5"
+       transform="translate(233.71327,237.17738)">
+      <g
+         id="g2849-2-0-8-7"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-5-4" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-2-5" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-9-3"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-0-8"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-7-6"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-6-3"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-0-4"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-9-7"
+       transform="translate(470.83943,237.17738)">
+      <g
+         id="g2849-2-0-6-1"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-6-3" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-4-9" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-1-8"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-5-1"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-0-7"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-7-4"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-6-2"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-8"
+       transform="translate(-4.24802,474.35474)">
+      <g
+         id="g2849-2-0-9"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-8" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-9" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-7"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-6"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-4"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-5"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-3"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-1-57"
+       transform="translate(232.87812,474.35474)">
+      <g
+         id="g2849-2-0-8-6"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-5-9" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-2-51" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-9-1"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-0-5"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-7-5"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-6-9"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-0-0"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-9-6"
+       transform="translate(470.00425,474.35474)">
+      <g
+         id="g2849-2-0-6-6"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-6-2" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-4-7" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-1-7"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-5-6"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-0-75"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-7-1"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-6-3"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-4"
+       transform="translate(-4.2480257,712.36725)">
+      <g
+         id="g2849-2-0-25"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-7" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-38" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-91"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-1"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-9"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-9"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-70"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-1-9"
+       transform="translate(232.87812,712.36725)">
+      <g
+         id="g2849-2-0-8-66"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-5-2" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-2-8" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-9-8"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-0-1"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-7-65"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-6-7"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-0-9"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+    <g
+       id="g3904-9-3"
+       transform="translate(470.00428,712.36725)">
+      <g
+         id="g2849-2-0-6-7"
+         transform="translate(-234.39998,-730.6428)">
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 268.49513,834.98533 212.41389,0 0,212.41387"
+           id="path2816-2-6-6-4" />
+        <path
+           style="opacity:0.78719985;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 480.90904,1047.3993 -212.41391,0 0,-212.41397"
+           id="path2816-3-1-4-4-5" />
+      </g>
+      <image
+         xlink:href="file:///home/sebastian/Projekte/Spacespiel/ereigniskarte_bild_v1.png"
+         width="213.54987"
+         height="162.7117"
+         id="image3100-1-5"
+         x="33.109608"
+         y="104.55728" />
+      <path
+         transform="translate(0,-2.172441e-5)"
+         id="path3106-5-7"
+         d="m 34.947701,291.45996 0,-24.21882 105.226579,0 105.22658,0 0,24.21882 0,24.21882 -105.22658,0 -105.226579,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000;stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path3104-0-4"
+         d="m 34.947701,291.45994 0,-24.21882 105.644149,0 105.64414,0 0,24.21882 0,24.21882 -105.64414,0 -105.644149,0 0,-24.21882 z"
+         style="opacity:0.78719985;fill:#000000" />
+      <text
+         id="text3880-7-9"
+         y="298.23831"
+         x="47.841846"
+         style="font-size:28px;font-style:normal;font-weight:normal;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="298.23831"
+           x="47.841846"
+           id="tspan3882-6-1"
+           sodipodi:role="line">Ereigniskarte</tspan></text>
+    </g>
+  </g>
+</svg>
